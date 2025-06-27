@@ -52,7 +52,7 @@ function convertToFarenheit(celsius) {
 // EXample Usage
 console.log(convertToFarenheit(0)); // It will console 32 as output
 console.log(convertToFarenheit(53)); // It will console 127.4 as output
-console.log(convertToFarenheit(-37)); // It will console 34.59 as output
+console.log(convertToFarenheit(-37)); // It will console -34.59 as output
 
 
 
